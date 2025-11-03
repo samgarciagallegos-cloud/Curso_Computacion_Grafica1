@@ -1,0 +1,5 @@
+1-.Como correr el programa cambia el archivo Glew  que esta en la carpeta de librerias por el que esta en zip 
+
+2-.Debido a que el archivo del proyecto es demasiado grande no me dejo cargar todo el proyecto.
+
+3-. Después corre el programa
