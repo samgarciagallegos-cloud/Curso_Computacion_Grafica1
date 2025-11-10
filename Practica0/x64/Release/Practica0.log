@@ -1,0 +1,56 @@
+﻿ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwSwapBuffers sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewEnableVertexAttribArray sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewBindVertexArray sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewUseProgram sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewVertexAttribPointer sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGetShaderiv sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewCompileShader sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo aiGetMaterialTextureCount sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewCreateShader sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewBindBuffer sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwGetTime sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewCreateProgram sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewUniform1i sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo stbi_load sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGetShaderInfoLog sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwGetFramebufferSize sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGetProgramiv sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwTerminate sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo SOIL_free_image_data sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwPollEvents sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwInit sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo SOIL_load_image sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewDeleteVertexArrays sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwSetKeyCallback sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwSetWindowShouldClose sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewUniform1f sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwCreateWindow sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwWindowHint sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGetUniformLocation sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwSetInputMode sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwMakeContextCurrent sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewBufferData sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewAttachShader sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewActiveTexture sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo stbi_image_free sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewShaderSource sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGenVertexArrays sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewUniformMatrix4fv sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ) sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z) sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ) sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ) sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo aiGetMaterialTexture sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp_glewExperimental sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwSetCursorPosCallback sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGetProgramInfoLog sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGenBuffers sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewGenerateMipmap sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewUniform3f sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo stbi_set_flip_vertically_on_load sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewDeleteShader sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewLinkProgram sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo glfwWindowShouldClose sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp_glewInit sin resolver
+ProyectoFinalSam.obj : error LNK2001: símbolo externo __imp___glewDeleteBuffers sin resolver
+C:\Users\SAMGC\Documents\Practica 5\x64\Release\Practica0.exe : fatal error LNK1120: 55 externos sin resolver
